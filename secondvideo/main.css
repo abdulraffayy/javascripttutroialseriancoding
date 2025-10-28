@@ -1,0 +1,12 @@
+/* Minimal stylesheet to prevent MIME/type errors when loading from live server */
+/* Add your styles here */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 16px;
+  background: #fff;
+  color: #111;
+}
+
+h1, h2, h3 {
+  color: #222;
+}

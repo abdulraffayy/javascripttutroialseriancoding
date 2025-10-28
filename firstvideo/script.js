@@ -178,5 +178,4 @@ let o = 10;          // block scope  global scope
     let o = 20;                      
     console.log( "Inside block: " + o); // output 20
 }
-
 console.log("Outside block: " + o); // output 10
